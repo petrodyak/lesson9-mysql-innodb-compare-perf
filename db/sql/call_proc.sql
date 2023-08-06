@@ -1,0 +1,1 @@
+call create_fill_table(40); -- 40 mln rows 
